@@ -1,0 +1,33 @@
+_repo: Under-the-German-shells_68301
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Holt, Mary R.
+    gutenberg_agent_id: '54708'
+    url: http://www.gutenberg.org/2009/agents/54708
+  - agent_name: Holt, George Nelson
+    gutenberg_agent_id: '54707'
+    url: http://www.gutenberg.org/2009/agents/54707
+creator:
+  author:
+    agent_name: Bourcier, Emmanuel
+    gutenberg_agent_id: '54706'
+    url: http://www.gutenberg.org/2009/agents/54706
+description: ''
+gutenberg_issued: '2022-06-13'
+identifiers:
+  gutenberg: '68301'
+language: en
+pgterms:marc905: 20220109172053bourcier
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Charles Scribner's Sons,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Under the German shells
+url: http://www.gutenberg.org/ebooks/68301
