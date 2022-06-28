@@ -8,12 +8,17 @@ contributor:
   - agent_name: Holt, George Nelson
     gutenberg_agent_id: '54707'
     url: http://www.gutenberg.org/2009/agents/54707
+covers:
+- cover_type: archival
+  image_path: 68301-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourcier, Emmanuel
     gutenberg_agent_id: '54706'
     url: http://www.gutenberg.org/2009/agents/54706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68301#Under-the-German-shells
 gutenberg_issued: '2022-06-13'
 identifiers:
   gutenberg: '68301'
